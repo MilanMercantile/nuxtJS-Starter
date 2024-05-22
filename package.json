@@ -5,7 +5,7 @@
   "author": "Nuzhat Minhaz",
   "private": true,
   "scripts": {
-    "build": ""NITRO_PRESET=aws_amplify nuxt build"",
+    "build": "NITRO_PRESET=aws_amplify nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview"
